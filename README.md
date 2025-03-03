@@ -10,9 +10,9 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 ```
 / (Root)
 │-- index.html  # Main HTML file
-│-- style.css   # Stylesheet
+│-- Style.css   # Stylesheet
 │-- script.js   # JavaScript file
-│-- assets/     # Images & other assets
+│-- Images/     # Images & other assets
 ```
 
 ## 🛠️ Technologies Used
@@ -35,8 +35,8 @@ This project is hosted using **GitHub Pages**.
 ## 📬 Contact
 Feel free to reach out to me!
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/your-username)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sivaramakrishnacareergpt/)
+- **GitHub:** [Your GitHub](https://github.com/SPV724)
 
 ---
 ⭐ If you like this portfolio, consider giving it a **star** on GitHub! ⭐
