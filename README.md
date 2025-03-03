@@ -1,5 +1,5 @@
 # Portfolio
-# 🚀 My Portfolio
+# My Portfolio
 
 Welcome to my personal portfolio! This website showcases my projects, skills, and experience as a developer.
 
@@ -34,7 +34,7 @@ This project is hosted using **GitHub Pages**.
 
 ## 📬 Contact
 Feel free to reach out to me!
-- **Email:** your.email@example.com
+- **Email:** sivaramk970@example.com
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sivaramakrishnacareergpt/)
 - **GitHub:** [Your GitHub](https://github.com/SPV724)
 
