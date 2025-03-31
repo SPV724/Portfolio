@@ -4,7 +4,7 @@
 Welcome to my personal portfolio! This website showcases my projects, skills, and experience as a developer.
 
 ## 🌐 Live Demo
-[View Portfolio](https://SPV724.github.io/portfolio/)
+[View Portfolio](https://spv724.github.io/Portfolio/)
 
 ## 📂 Project Structure
 ```
